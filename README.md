@@ -1,7 +1,7 @@
 ## Learning React.js
 
 This repository is used to put my learning tasks from Udemy.
-First task: Create Expenses Table and use React.js basics: components, props, clean JSX code, atc.
+First task: Create Expenses Table and use React.js basics: its all about components and props configuring these components.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
